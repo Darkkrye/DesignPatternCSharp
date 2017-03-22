@@ -1,0 +1,4 @@
+/Users/Pierre/Documents/Git/GitHub/DesignPatternCSharp/BoissonTemplate/BoissonTemplate/bin/Debug/BoissonTemplate.exe
+/Users/Pierre/Documents/Git/GitHub/DesignPatternCSharp/BoissonTemplate/BoissonTemplate/bin/Debug/BoissonTemplate.exe.mdb
+/Users/Pierre/Documents/Git/GitHub/DesignPatternCSharp/BoissonTemplate/BoissonTemplate/obj/x86/Debug/BoissonTemplate.exe
+/Users/Pierre/Documents/Git/GitHub/DesignPatternCSharp/BoissonTemplate/BoissonTemplate/obj/x86/Debug/BoissonTemplate.exe.mdb
