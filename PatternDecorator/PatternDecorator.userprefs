@@ -1,13 +1,5 @@
 ﻿<Properties StartupConfiguration="{368FC42A-28D0-4B07-A0FF-640D9CDF1897}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PatternDecorator/Ingredients/Lait.cs">
-    <Files>
-      <File FileName="PatternDecorator/DecoratorIngredient.cs" Line="17" Column="10" />
-      <File FileName="PatternDecorator/Ingredients/Caramel.cs" Line="10" Column="9" />
-      <File FileName="PatternDecorator/Ingredients/Chantilly.cs" Line="17" Column="55" />
-      <File FileName="PatternDecorator/Ingredients/Chocolat.cs" Line="17" Column="54" />
-      <File FileName="PatternDecorator/Ingredients/Lait.cs" Line="21" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

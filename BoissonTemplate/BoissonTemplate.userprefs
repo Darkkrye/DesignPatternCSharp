@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{34A7D6D5-8104-4E39-8259-1B9E491D9056}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BoissonTemplate/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoissonTemplate/Model/BoissonAvecAdaptation.cs">
     <Files>
       <File FileName="BoissonTemplate/Program.cs" Line="20" Column="1" />
-      <File FileName="BoissonTemplate/Model/BoissonAvecAdaptation.cs" Line="34" Column="26" />
+      <File FileName="BoissonTemplate/Model/BoissonAvecAdaptation.cs" Line="38" Column="1" />
       <File FileName="BoissonTemplate/Model/Chocolat.cs" Line="13" Column="52" />
       <File FileName="BoissonTemplate/Model/Cafe.cs" Line="22" Column="57" />
       <File FileName="BoissonTemplate/Model/The.cs" Line="17" Column="62" />
